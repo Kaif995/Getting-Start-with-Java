@@ -1,5 +1,5 @@
 package firstProject;
-
+ 
 import java.util.Scanner;
 
 public class marks_high_low_check {
