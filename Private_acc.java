@@ -8,5 +8,5 @@ public class Private_acc {
 	}
 	public int getid() {
 		return rollno;
-	}
+	} 
 }
