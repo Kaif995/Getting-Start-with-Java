@@ -1,6 +1,6 @@
 public class stringMeth { 
     public static void main(String[] args) {
-        String text = " Hello World! "; 
+        String text = " Hello World! ";  
 
         System.out.println("Original: '" + text + "'");
         System.out.println("Lowercase: " + text.toLowerCase());
