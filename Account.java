@@ -1,6 +1,6 @@
 package firstProject;
 import java.util.Date;
-
+ 
 public class Account {
     private int id;
     private double balance;
